@@ -20,6 +20,12 @@
   </properties>
 
   <dependencies>
+    <!--AspectJ-->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.8.1</version>
+    </dependency>
     <!--MySql dependency-->
     <dependency>
       <groupId>mysql</groupId>
